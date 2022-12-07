@@ -1,0 +1,132 @@
+body {
+  background-color: #FFF6EA;
+  
+}
+.fa-solid {
+  margin-top: 10px;
+  float:left;
+  padding-left: 10%;
+  color: black;
+}
+
+.fa-brands {
+  margin-top:10px;
+  float:right;
+  padding-right: 10%;
+  color: black;
+}
+
+.fa-brands:hover, a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+.fa-solid:hover, a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+h1{
+  font-family: 'Bodoni Moda';
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 0;
+  font-size: 50px;
+  margin-right:0%;
+  margin-bottom: 0%;
+}
+
+h3 {
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 5%;
+  font-family: 'Courier';
+  font-size: 16px;
+  line-height: 3em;
+}
+
+#line {
+  margin-bottom: 0;
+}
+body {
+  border: solid #FFE1E1 30px;
+  
+}
+
+#title {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+}
+.navbar {
+  text-align: center;
+  font-family: 'DM Serif Display';
+  margin-right: 42.5%;
+  margin-bottom: 1%;
+  
+}
+
+
+table {
+  width: 1000px;
+  height: 200px;
+  margin-top: 10%;
+  border-collapse: collapse;
+}
+
+.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+.artwork {
+  text-align: center;
+  width: 80%;
+  
+}
+
+figcaption{
+  font-family:'Bebas Neue';
+ font-size: 11px;
+ text-align: left;
+ padding-left: 10%;
+}
+
+
+
+
+#secondparagraph {
+  text-align: center;
+  padding-bottom: 10 px;
+
+}
+
+.bottomnavbar-nav {
+  padding-top: 6%;
+  padding-left: 85%;
+  font-family: 'Archivo Narrow';
+  color: black;
+  list-style-type: none;
+  font-size: 16px;
+  text-align: left;
+  padding-bottom: 3%;
+}
+
+.bottomnav-link{
+color:black;
+}
+
+.contactinfo {
+  width: 50%;
+  float: left;
+  padding-top: 6%;
+  text-align: left;
+  padding-left: 10%;
+  padding-bottom: 3%;
+  font-family: 'Mulish';
+  line-height: 2em;
+  font-weight: bold;
+  font-family: 'Archivo Narrow'
+
+}

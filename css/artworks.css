@@ -1,0 +1,59 @@
+html {
+  border: solid #d0ddfa 30px;
+}
+body {
+  background-color: #FFF6EA;
+}
+
+.navbar-brand {
+  font-family:'Bodoni Moda';
+  font-size: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'DM Serif Display';
+  padding-top: 3%;
+  padding-bottom: 2%;
+  font-size: 60px;
+}
+
+.navbar {
+  text-align: center;
+  font-family: 'DM Serif Display';
+}
+
+table {
+  width: 1000px;
+  height: 200px;
+  margin-top: 3%;
+  border-collapse: collapse;
+  margin-bottom: 5%;
+}
+
+.center {
+  margin-left:24%;
+  margin-right:20%;
+}
+
+.artwork {
+  text-align: center;
+  width: 80%;
+}
+
+figcaption{
+font-family:'Bebas Neue';
+ font-size: 18px;
+ text-align: left;
+ padding-left: 0%;
+}
+
+.zoom {
+  transition: transform .2s;
+  margin: auto;
+}
+.zoom:hover {
+  transform: scale(1.2); /* IE 9 */
+  transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
