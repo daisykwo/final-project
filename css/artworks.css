@@ -15,7 +15,7 @@ h1 {
   font-family: 'DM Serif Display';
   padding-top: 3%;
   padding-bottom: 2%;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .navbar {
@@ -25,10 +25,9 @@ h1 {
 }
 
 table {
-  width: 1000px;
-  height: 200px;
+  width: 60%;
+  height: 30%;
   margin-top: 3%;
-  border-collapse: collapse;
   margin-bottom: 5%;
 }
 
